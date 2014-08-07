@@ -28,3 +28,7 @@ This is a first draft only. Any ideas, suggestions or improvements are welcome.
 
 ## Demo
 
+You can view the demo [here](http://maangalabs.com/)
+
+## Update wiki
+Please update the wiki page when you use this theme 
