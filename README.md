@@ -2,17 +2,25 @@
 
 ## Installation
 
-
 Copy the adipoli-octopress theme into your blog's octopress .theme directory:
+Install the theme and generate site.
 
+```
+git clone https://github.com/pranavrajs/adipoli-octopress-theme.git .themes/adipoli
+rake install["adipoli"]
+rake generate
+rake preview
 
-Install the theme and generate site:
+```
+## Desktop View 
+![Alt text](http://maangalabs.com/images/posts/5/theme-1.png "Desktop View")
 
-## Code snippet colors
+## Tablet View 
+![Alt text](http://maangalabs.com/images/posts/5/theme-2.png "Tablet View")
 
-Theme utilizes the solarized color scheme for code snippets. By default, the
-bootstrap variant is selected, but light/dark colors can be used by setting
-the $solarized variable in sass/syntax/\_higlight.scss.
+## Mobile View 
+![Alt text](http://maangalabs.com/images/posts/5/theme-3.png "Mobile View")
+
 
 ## Patches welcome!
 
